@@ -7,5 +7,7 @@ prima eseguire calibrazine grossolana con un peso noto sulla cella, (ricordatevi
 secondo eseguite calibrazione cella di carico, in questo secondo programma dovrete posizionare sempre dopo la tara l'oggetto, e, con una combinazione di tasti andrete a aumentare o diminuire il parametro di calibrazione in modo da affinare il risultato.
 
 tasti di calibrazione:  
+
   u parametro +1
+  
   d parametro -1
