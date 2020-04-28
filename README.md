@@ -2,7 +2,7 @@
 
 schema di montaggio in bilancia OLed_con-ftdi232.jpg
 
-scaricare le librerie HX711_.zip e quelle illustrate sul video
+scaricare le librerie HX711_.zip e quelle illustrate sul video https://youtu.be/1q9RZh-q6Ms
 
 prima eseguire calibrazine grossolana con un peso noto sulla cella, (ricordatevi che il peso va posizionato solo dopo la lettura del messaggio sul monito seriale, ovvero dopo la tara), in questo programma annotatevi il parametro di calibrazione.
 
